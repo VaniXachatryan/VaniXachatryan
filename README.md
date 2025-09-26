@@ -31,3 +31,7 @@
     <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=ffffff&labelColor=1f1f1f">
   </div>
 </p>
+
+<div align="center">
+  <img src="https://github.com/VaniXachatryan/VaniXachatryan/blob/output/github-contribution-grid-snake-dark.svg" width="900px"/>
+</div>
