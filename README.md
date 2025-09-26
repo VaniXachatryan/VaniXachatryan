@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=1000&size=24&pause=500&duration=2500&lines=Hey,+my+name's+Vanik.;I+love+open-source.;I+love+secure+code.;I+love+learning.;&center=true&width=500&height=50"></a>
 </p>
