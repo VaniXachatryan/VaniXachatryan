@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/OpenTelemetry-563D7C?style=for-the-badge&logo=opentelemetry&logoColor=ffffff&labelColor=1f1f1f">
+    <img src="https://img.shields.io/badge/Grafana-563D7C?style=for-the-badge&logo=grafana&logoColor=ffffff&labelColor=1f1f1f">
   </div>
 </p>
 
