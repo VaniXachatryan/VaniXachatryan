@@ -5,6 +5,7 @@
 <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=ffffff&labelColor=1f1f1f">
+    <img src="https://img.shields.io/badge/Rust (learning)-FF6600?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=ffffff&labelColor=1f1f1f">
@@ -14,16 +15,15 @@
     <img src="https://img.shields.io/badge/Grafana-563D7C?style=for-the-badge&logo=grafana&logoColor=ffffff&labelColor=1f1f1f">
   </div>
 </p>
-
 <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=1f1f1f">
+    <img src="https://img.shields.io/badge/Docker Swarm-2496ED?style=for-the-badge&logo=docker-swarm&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1f1f1f">
   </div>
 </p>
-
 <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Zed%20Editor-5C2D91?style=for-the-badge&logo=zed&logoColor=ffffff&labelColor=1f1f1f">
