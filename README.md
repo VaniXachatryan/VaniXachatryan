@@ -18,11 +18,9 @@
 </p>
 <p>
   <div align="center">
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Docker Swarm-2496ED?style=for-the-badge&logo=docker-swarm&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff&labelColor=1f1f1f">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1f1f1f">
   </div>
 </p>
 <p>
@@ -30,6 +28,5 @@
     <img src="https://img.shields.io/badge/Zed%20Editor-5C2D91?style=for-the-badge&logo=zed&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=ffffff&labelColor=1f1f1f">
-    <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=ffffff&labelColor=1f1f1f">
   </div>
 </p>
