@@ -6,6 +6,7 @@
 <p>
   <div align="center">
     <img src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=ffffff&labelColor=1f1f1f">
+    <img src="https://img.shields.io/badge/Python-29BEB0?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/Rust (learning)-FF6600?style=for-the-badge&logo=rust&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=1f1f1f">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff&labelColor=1f1f1f">
